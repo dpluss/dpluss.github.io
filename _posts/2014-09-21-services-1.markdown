@@ -1,0 +1,8 @@
+---
+layout: default
+img: webdesign.png
+category: Services
+title: Web Design
+description: |
+---
+  Pornind de la un brief completat de dumneavoastra, in care trasam anumite linii prin care sa va intelegem viziunea, realizam <strong>site-uri web personalizate</strong>.

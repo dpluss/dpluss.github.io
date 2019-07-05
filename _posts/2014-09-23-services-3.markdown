@@ -1,0 +1,8 @@
+---
+layout: default
+img: Print-design.png
+category: Services
+title: Print Design
+description: |
+---
+Fie ca este vorba de un mesh de mari dimensiuni sau de o simpla invitatie (nunta, botez), noi va putem oferi un <strong>design unic</strong> conform cu exigentele dvs.

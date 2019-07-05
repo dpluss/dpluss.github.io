@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: Dpluss
+email: dpluss2019@gmail.com
+author: Dpluss
+description: > # "Write an awesome description for your new site here. 
+  Servicii graphic design. Logo, webdesign, pliante, carti de vizita,bannere, pliante.
+copyright: 'Copyright &copy; 2019 Dpluss. All Rights Reserved.'
+credits: 
+
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/GraphicDesign.DPluss/
+  - title: instagram
+    url: https://www.instagram.com/d.pluss2019/
+  - title: behance
+    url: https://www.behance.net/dkpluss
