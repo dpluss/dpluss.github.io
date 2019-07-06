@@ -7,4 +7,4 @@ description: |
 ---
    <strong>Creare logo</strong> – fie ca vorbim despre grafica unui prim logo al brand-ului, fie ca este rebranding pentru improspatarea imaginii business-ului, crearea unui logo este pasul definitoriu pentru succes.
 
-  <strong>Materiale de stationare</strong> – cartile de vizita sunt inca utile în relatiile B2B. Brosurile, flyerele, bannerele sustin brandul, in orice stadiu s-ar afla acesta.
+  <strong>Materiale de stationare</strong> – cartile de vizita sunt inca utile în relatiile business to business. Brosurile, flyerele, bannerele sustin brandul, in orice stadiu s-ar afla acesta.
